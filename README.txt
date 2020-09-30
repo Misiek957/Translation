@@ -9,6 +9,8 @@ This is a script designed to automate to an extent the process of analysing a la
 
 NOTE:
 
+For the following reasons, the script may prove to be troublesome to execute. Therefore it is advisable to contact the university's IS team for assistance in running the script.
+
 The package contains the source code as well as an executable file for anyone unfamiliar with running a .py file via an Integrated development environment (IDE). However, since the resultant executable reads and writes data on local files (namely the excel spreadsheet of which data it analyzes), running the .exe file causes a false positive virus detection from the Windows Defender SmartScreen. It also happens since the executable is not verified and signed despite being from an acquianted source with which I have supported in creating the script.
 
 To run the executable:
