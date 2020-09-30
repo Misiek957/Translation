@@ -1,7 +1,9 @@
 Translation Analysis App
 Creation of:
-Michal Nahlik, School of Engineering, University of Warwick, michal.nahlik@warwick.ac.uk
-Ewa Lelowicz-Nahlik, University of Portsmouth
+Michal Nahlik, School of Engineering, University of Warwick,
+michal.nahlik@warwick.ac.uk
+Ewa Lelowicz-Nahlik, University of Portsmouth,
+ewa.lelowicz@gmail.com
 
 This is a script designed to automate to an extent the process of analysing a large amount of translated text and offer a numerical score based on a human-defined collocation wordlist. This work is dedicated as assistance to the dissertation of Ewa Lelowicz-Nahlik of University of Portsmouth.
 
