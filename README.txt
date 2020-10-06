@@ -39,6 +39,8 @@ To run the executable:
 3. If 'Windows protected your PC' warning is displayed:
 	i. Press 'More info'
 	ii. Press 'Run anyway'
+	
+Once the executable is opened, it may take up to 30 seconds for the script to initalise, depending on processor performance.
 
 Alternatively, a Python 3.8 IDE (such as PyCharm) can be installed along with the following packages: Tkinter, Openpyxl, pandas, docx2txt. Thereafter, within the same directory Translation_Analysis_App.py can be run.
 
